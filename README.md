@@ -77,6 +77,4 @@ The Online Examination & Proctoring Platform is a secure web-based solution desi
 
 K.Sai Suchitra
 
-Your Name
-
 Internship Project Submission
