@@ -61,7 +61,6 @@ The Online Examination & Proctoring Platform is a secure web-based solution desi
 * WebRTC
 
 ## Screenshots
-<img width="912" height="292" alt="Screenshot 2026-06-16 202016" src="https://github.com/user-attachments/assets/4798fb59-e831-4c26-b1f8-294e143e9bdc" />
 <img width="1831" height="807" alt="Screenshot 2026-06-16 202041" src="https://github.com/user-attachments/assets/796d2639-3354-4521-aade-7ad119c313cc" />
 <img width="1872" height="841" alt="Screenshot 2026-06-16 202138" src="https://github.com/user-attachments/assets/d615b623-e34d-466e-ab90-12b9e67fe37f" />
 <img width="1738" height="806" alt="Screenshot 2026-06-16 202104" src="https://github.com/user-attachments/assets/5aff48eb-f76d-4025-856c-96cabca366d4" />
